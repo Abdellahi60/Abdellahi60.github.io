@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdellahi_lemrabett</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Abdellahi_lemrabett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jan 2023 01:15:29 +0100</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A propos </title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>Je suis un élève ingénieur en polytechnique Nouackchott_Mauritanie spécialisé dans le domaine de statistique et l&amp;rsquo;ingénierie des donnés .
+FormationLink to headingDiplôme d&amp;rsquo;ingénieure en statistique et ingénierie des donnés en cours d&amp;rsquo;obtention.
+2021-present
+Classes préparatoires aux grandes écoles d&amp;rsquo;ingénieurs
+2019-2021
+Baccalauréat Mathématique (C)
+2018-2019
+Mention: Bien
+COMPÉTENCES TECHNIQUESLink to headingLanguages et outils : R Python, git , docker
+Dev : HTML,shiny, Django,HUGO
+Intelligence artificielle : Keras, Tensorflow,skicit-learn</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/contact/</guid>
+      <description>Telphone:
+48-21-48-25
+Email:
+21035@esp.mr
+aboudimrabett@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.example.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/</guid>
+      <description>PROJET &amp;amp; EXPERIENCELink to headingL&amp;rsquo;ANSADE(en alternance)Link to headingNov 2022 - Juin 2023
+Theme:Etude du Bilan alimentaire de la Mauritanie
+Technologies : python,R,django,
+TASIASTLink to headingAoùt 2022 - Sep 2023
+Stage découverte entreprise
+Theme: Identifier les elements chimiques qui reduisent la quantite extracté de l&amp;rsquo;or
+Projet Entrepreneuriat et Innovation nov 2021- Juin 2022Link to headingCréation d&amp;rsquo;une application de transport qui permet aux utilisateurs de réserver un véhicule(uniquement les taxis) en quelques clics sur leur smartphone</description>
+    </item>
+    
+  </channel>
+</rss>
